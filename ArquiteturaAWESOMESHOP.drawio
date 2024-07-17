@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T12:45:35.270Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YDDBCHagqtWSy56D1CCd" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-17T12:46:51.109Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="fzPJuxIthUKmmdJFxUVg" version="24.7.1" type="github">
   <diagram name="Página-1" id="UsM7fxrE0sC0xFkW4M4Q">
     <mxGraphModel dx="2261" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,10 +33,9 @@
         <mxCell id="1sJUVXW1qwg81vNIJL7S-11" value="ROUTES TO THE CORRECT MICROSSERVICE" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;spacing=5;fontStyle=1;fontSize=18;" parent="1" connectable="0" vertex="1">
           <mxGeometry x="414" y="585" as="geometry" />
         </mxCell>
-        <mxCell id="d9R6TqD-o2QPxgNDTaoC-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#23445D;fontSize=16;fontStyle=1" edge="1" parent="1" source="1sJUVXW1qwg81vNIJL7S-12">
+        <mxCell id="d9R6TqD-o2QPxgNDTaoC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#23445D;" edge="1" parent="1" source="1sJUVXW1qwg81vNIJL7S-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-10" y="1150" as="targetPoint" />
-            <mxPoint x="40" y="890" as="sourcePoint" />
+            <mxPoint x="-110" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1sJUVXW1qwg81vNIJL7S-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -153,9 +152,9 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d9R6TqD-o2QPxgNDTaoC-2" value="SERVICE&lt;div&gt;DISCOVERY&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;spacing=5;fontStyle=1;fontSize=13;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="170" y="870" as="geometry">
-            <mxPoint x="-181" y="64" as="offset" />
+        <mxCell id="d9R6TqD-o2QPxgNDTaoC-4" value="NOTIFICATION&lt;div style=&quot;font-size: 13px;&quot;&gt;SERVICE&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;spacing=5;fontStyle=1;fontSize=13;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="2.2737367544323206e-13" y="890" as="geometry">
+            <mxPoint x="-6" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
